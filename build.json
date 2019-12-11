@@ -1,0 +1,9 @@
+{
+  "id": "eu_cookie_banner",
+  "version": "1.0",
+  "description": "GDPR compatible cookie banners",
+  "categories": [
+	"privacy"
+  ],
+  "compatible_from": "2019.4.2"
+}
