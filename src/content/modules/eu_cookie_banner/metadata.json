@@ -1,6 +1,6 @@
 {
 	"version": "1.0",
-	"source": "pkgsrc",
+	"source": "extend",
 	"embed": false,
 	"shy": false,
 	"main_class": "EuCookieBannerController",
